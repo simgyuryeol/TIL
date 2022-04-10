@@ -4,6 +4,7 @@
  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
 - [  Spring core principle](https://github.com/simgyuryeol/core.git)
 - [  Spring MVC 1](https://github.com/simgyuryeol/servlet.git)
+- [  Spring MVC 1_2](https://github.com/simgyuryeol/springmvc.git)
 </br>
 
 
