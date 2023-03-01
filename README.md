@@ -13,6 +13,7 @@
 
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Algorithm-00BCB4?style=flat-square&logo=TheAlgorithms&logoColor=#00BCB4"> 
 - [ Algorithm](https://github.com/simgyuryeol/algorithm-study.git)
+- [ SSAFY Algorithm](https://github.com/simgyuryeol/algorithm_solved.git)
 </br>
 <img src="https://img.shields.io/badge/Computer Science-FFCA28?style=flat-square&logo=MediaFire&logoColor=white">
 
